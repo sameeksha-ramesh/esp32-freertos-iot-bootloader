@@ -49,5 +49,8 @@ json{
 Monitor live on: broker.hivemq.com:1883 → topic iot/sameeksha/sensor
 
 Dual-slot support: primary + OTA partition fallback
+
+BOOTLOADER 
+
 Safe mode with UART console for recovery flashing
 OTA receive over UART from Python host tool
